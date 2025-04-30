@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Replace red colors with black */
+.text-red-500 {
+    color: #000 !important;
+}
+
+.text-red-600 {
+    color: #000 !important;
+}
+
+.text-red-700 {
+    color: #000 !important;
+}
+
+.text-red-800 {
+    color: #000 !important;
+}
+
+.bg-red-100 {
+    background-color: #f0f0f0 !important;
+}
+
+.bg-red-500 {
+    background-color: #000 !important;
+}
+
+.bg-red-600 {
+    background-color: #000 !important;
+}
+
+.border-red-500 {
+    border-color: #000 !important;
+}

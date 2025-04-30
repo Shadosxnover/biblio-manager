@@ -1,0 +1,21 @@
+.bg-primary-light {
+    background-color: rgba(var(--color-primary-rgb), 0.15);
+}
+
+.text-primary {
+    color: var(--color-primary);
+}
+
+.text-secondary {
+    color: var(--color-secondary);
+}
+
+.hover\:bg-primary-dark:hover {
+    background-color: var(--color-primary-dark);
+}
+
+.hover\:bg-secondary-dark:hover {
+    background-color: var(--color-secondary-dark);
+}
+
+/* ... existing code... */
